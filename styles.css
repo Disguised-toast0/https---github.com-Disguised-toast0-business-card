@@ -1,0 +1,64 @@
+body {
+    margin: 20px;
+    text-align: center;
+    
+    font-family: cursive;
+    background-image: url(https://img.freepik.com/premium-vector/aesthetic-minimal-purple-wallpaper-illustration-perfect-wallpaper-backdrop-postcard-background-your-design_565280-733.jpg?w=2000);
+}
+
+.avatar {
+    width: 200px;
+    border: 1px solid #cddafd;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.card {
+    width: 900px;
+    font-size: large;
+    font-weight: bold;
+    margin: 125px auto 0 auto;
+    padding: 20px;
+    display: flex; 
+    font-weight: bolder;
+    justify-content: space-around;
+    text-align: center;
+    background-image: linear-gradient(#4568dc, #b06ab3);
+    border: 15px solid #caf8;
+    border-radius: 25px;
+    color: #1d1c1c;
+        
+   
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 125px;
+    background: #b06ab3;
+    border: 2px solid lavender;
+    border-radius: 20px;
+    padding: 7px;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.btn:hover {
+     background-color: #a13fa2;
+}
+
+#link {
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#link:visited {
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
